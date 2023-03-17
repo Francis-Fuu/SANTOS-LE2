@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Belinda\\source\\repos\\SANTOSLE2\\BlogTestUI\\BlogTestUI.csproj",
+      "projectUniqueName": "C:\\Users\\Belinda\\Source\\Repos\\SANTOS-LE2\\SANTOSLE2\\BlogTestUI\\BlogTestUI.csproj",
       "projectName": "BlogTestUI",
-      "projectPath": "C:\\Users\\Belinda\\source\\repos\\SANTOSLE2\\BlogTestUI\\BlogTestUI.csproj",
+      "projectPath": "C:\\Users\\Belinda\\Source\\Repos\\SANTOS-LE2\\SANTOSLE2\\BlogTestUI\\BlogTestUI.csproj",
       "packagesPath": "C:\\Users\\Belinda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Belinda\\source\\repos\\SANTOSLE2\\BlogTestUI\\obj\\",
+      "outputPath": "C:\\Users\\Belinda\\Source\\Repos\\SANTOS-LE2\\SANTOSLE2\\BlogTestUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

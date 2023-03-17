@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rNkZnGcyjhj8KcE9esJ1iC1ni/qQ4/d5DJF7JLEFRpoqOdtYPPYG26PV2SQjkWAQfxw6WjHgdLjLKQ9oBN8/7g==",
+  "dgSpecHash": "MnUHdQ6DFgo5kZDR7bEZq4DnNW9O35Ghm5HeIlVJaRTNEfviCY5cnOXkvQN0qyIPK06ckmPk+7qFeeKD7cv1Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Belinda\\source\\repos\\SANTOSLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Belinda\\Source\\Repos\\SANTOS-LE2\\SANTOSLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Belinda\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Belinda\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
