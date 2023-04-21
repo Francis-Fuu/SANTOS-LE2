@@ -2,9 +2,5 @@ C:\Users\Belinda\source\repos\SANTOSLE2\SantosBlogDB\bin\Debug\SantosBlogDB.dacp
 C:\Users\Belinda\source\repos\SANTOSLE2\SantosBlogDB\bin\Debug\SantosBlogDB.dll
 C:\Users\Belinda\source\repos\SANTOSLE2\SantosBlogDB\bin\Debug\SantosBlogDB.pdb
 C:\Users\Belinda\source\repos\SANTOSLE2\SantosBlogDB\obj\Debug\SantosBlogDB.sqlproj.AssemblyReference.cache
-C:\Users\Belinda\source\repos\SANTOSLE2\SantosBlogDB\obj\Debug\Model.xml
-C:\Users\Belinda\source\repos\SANTOSLE2\SantosBlogDB\obj\Debug\refactor.xml
-C:\Users\Belinda\source\repos\SANTOSLE2\SantosBlogDB\obj\Debug\postdeploy.sql
-C:\Users\Belinda\source\repos\SANTOSLE2\SantosBlogDB\obj\Debug\predeploy.sql
 C:\Users\Belinda\source\repos\SANTOSLE2\SantosBlogDB\obj\Debug\SantosBlogDB.dll
 C:\Users\Belinda\source\repos\SANTOSLE2\SantosBlogDB\obj\Debug\SantosBlogDB.pdb
